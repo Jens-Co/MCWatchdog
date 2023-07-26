@@ -399,7 +399,7 @@
   border-color: $navbar-default-border;
 
   .navbar-brand {
-    color: $navbar-default-brand-color;
+    color: white;
     &:hover,
     &:focus {
       color: $navbar-default-brand-hover-color;
@@ -413,11 +413,11 @@
 
   .navbar-nav {
     > li > a {
-      color: $navbar-default-link-color;
+      color: white;
 
       &:hover,
       &:focus {
-        color: $navbar-default-link-hover-color;
+        color: white;
         background-color: $navbar-default-link-hover-bg;
       }
     }
@@ -425,7 +425,7 @@
       &,
       &:hover,
       &:focus {
-        color: $navbar-default-link-active-color;
+        color: white;
         background-color: $navbar-default-link-active-bg;
       }
     }
@@ -463,7 +463,7 @@
       &:hover,
       &:focus {
         background-color: $navbar-default-link-active-bg;
-        color: $navbar-default-link-active-color;
+        color: white;
       }
     }
 
@@ -504,7 +504,7 @@
   // Add a class to ensure links outside the navbar nav are colored correctly.
 
   .navbar-link {
-    color: $navbar-default-link-color;
+    color: white;
     &:hover {
       color: $navbar-default-link-hover-color;
     }
@@ -533,21 +533,21 @@
   border-color: $navbar-inverse-border;
 
   .navbar-brand {
-    color: $navbar-inverse-brand-color;
+    color: white;
     &:hover,
     &:focus {
-      color: $navbar-inverse-brand-hover-color;
+      color: white;
       background-color: $navbar-inverse-brand-hover-bg;
     }
   }
 
   .navbar-text {
-    color: $navbar-inverse-color;
+    color: white;
   }
 
   .navbar-nav {
     > li > a {
-      color: $navbar-inverse-link-color;
+      color: white;
 
       &:hover,
       &:focus {
