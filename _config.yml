@@ -1,11 +1,8 @@
 title: "MCWatchdog"
 email: ''
-description: "MCWatchdog is a discord bot that is able to check your minecraft status on an interval and displays this is a nice embed."
+description: "MCWatchDog is able to check, remote connect and to warn you whenever something is wrong with your minecraft server."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://watchdog.mcprofile.io" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: ''
-github_username: 'Jens-Co'
-medium_username: ''
 
 # Build settings
 markdown: kramdown
@@ -87,3 +84,4 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/usage', text: 'Usage & Commands' }
+  - { url: 'https://github.com/PublicGeyserConnect/MinecraftStatusBot', text: 'GitHub' }
