@@ -2,7 +2,7 @@ title: "MCWatchdog"
 email: ''
 description: "MCWatchdog is a discord bot that is able to check your minecraft status on an interval and displays this is a nice embed."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jens-co.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://watchdog.mcprofile.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
 github_username: 'Jens-Co'
 medium_username: ''
