@@ -85,3 +85,5 @@ nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/usage', text: 'Usage & Commands' }
   - { url: 'https://github.com/PublicGeyserConnect/MinecraftStatusBot', text: 'GitHub' }
+  - { url: '/tos', text: 'Terms Of Service' }
+  - { url: '/privacy', text: 'Privacy Policy' }
